@@ -1,0 +1,17 @@
+{
+  "name": "tello-alexa-sinric-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^10.5.7",
+    "trim-newlines": "^3.0.0",
+    "ws": "^7.2.1"
+  },
+  "devDependencies": {},
+  "keywords": ["Tello", "Alexa"]
+}
